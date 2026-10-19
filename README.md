@@ -2,7 +2,7 @@
 
 I'm a molecular biologist and currently a Bioinformatics Postdoc at the University of Virginia School of Medicine, where my research focuses on understanding gene regulation in prostate cancer and COPD.
 
-I did my PhD in Peter Fraser's lab at Florida State University, where I studied how chromosomes pair and organize themselves during meiosis using single-cell Hi-C. I started out mostly at the bench, doing microscopy, preparing NGS libraries, and optimizing experimental methods, before gradually moving into computational analysis. Along the way, I discovered how much I enjoyed exploring data, trying different approaches, and seeing what I could learn from them!
+I did my PhD in Dr. Peter Fraser's lab at Florida State University, where I studied how chromosomes pair and organize themselves during meiosis using single-cell Hi-C. I started out mostly at the bench, doing microscopy, preparing NGS libraries, and optimizing experimental methods, before gradually moving into computational analysis. Along the way, I discovered how much I enjoyed exploring data, trying different approaches, and seeing what I could learn from them!
 
 ## 🔍 What interests me 
 
