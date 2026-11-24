@@ -2,7 +2,7 @@
 
 I'm a computational biologist with a background in molecular biology and currently a bioinformatics postdoctoral researcher at the University of Virginia School of Medicine. Working in the labs of Dr. Kexin Xu and Dr. Xiaobo Zhou, my research focuses on understanding the genomic and molecular mechanisms underlying prostate cancer and COPD, as well as cellular responses to injury and infection.
 
-I did my PhD in Dr. Peter Fraser's lab at Florida State University, where I studied how chromosomes pair and organize themselves during meiosis using single-cell Hi-C. I started out mostly at the bench, doing microscopy, preparing NGS libraries, and optimizing experimental methods, before expanding my research into computational genomics. Along the way, I discovered how much I enjoyed working with complex biological datasets, developing analytical approaches, and uncovering patterns that help explain genome structure and function.
+I did my PhD in Dr. Peter Fraser's lab at Florida State University, where I studied how chromosomes pair and organize themselves during meiosis using single-cell Hi-C. I started out mostly at the bench, doing microscopy, preparing NGS libraries, and optimizing experimental methods, before expanding my research into computational genomics. Along the way, I discovered how much I enjoyed working with complex biological datasets, developing analytical approaches, and investigating the relationship between genome organization and function.
 
 ## 🔍 What interests me 
 
